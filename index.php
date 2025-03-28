@@ -40,7 +40,7 @@
                             <div class="col-lg-6 d-block bg-primary shadow-lg p-5 text-center">
                                 <img src="img/icon.png" alt="" width="200" height="">
                                 <h3 class="text-white">Sistem Informasi Inventory Gudang 
-                                <br> PT.PELINDO (Persero)
+                                <br> PT.PELINDO Reg.1
                                 <br><small>
                                 Cabang Tanjungpinang</h3>
                                 </small>    
